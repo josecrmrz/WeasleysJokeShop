@@ -3,4 +3,6 @@
     <string name="address">Number 93\nDiagon Alley\nLondon, England</string>
     <string name="weasleysTitle">Weasleys\'</string>
     <string name="wizardTitle">Wizard</string>
+    <string name="tvWheezes">Wheezes</string>
+    <string name="contentDescription">Logo</string>
 </resources>
