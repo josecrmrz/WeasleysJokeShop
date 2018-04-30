@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="businessFontSize">24sp</dimen>
-    <dimen name="addressBottonMargin">40dp</dimen>
+    <dimen name="addressBottomMargin">64dp</dimen>
     <dimen name="titleTopMargin">4dp</dimen>
     <dimen name="wheezesEndMargin">88dp</dimen>
     <dimen name="wizardEndMargin">156dp</dimen>
-    <dimen name="weasleyTopMargin">64dp</dimen>
+    <dimen name="weasleyTopMargin">56dp</dimen>
     <dimen name="weasleyEndMargin">164dp</dimen>
+    <dimen name="phoneTopMargin">8dp</dimen>
 </resources>
